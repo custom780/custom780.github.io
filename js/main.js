@@ -26,6 +26,7 @@ $(document).ready(function () {
   // Switching between posts and categories
   ======================================= */
 
+  /*
   $('.c-nav__list > .c-nav__item').click(function() {
     $('.c-nav__list > .c-nav__item').removeClass('is-active');
     $(this).addClass('is-active');
@@ -39,6 +40,7 @@ $(document).ready(function () {
       $('.c-categories').css('display', 'none').removeClass('o-opacity');
     }
   });
+  */
 
   /* =======================
   // Adding ajax pagination
