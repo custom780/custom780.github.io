@@ -17,15 +17,17 @@ permalink: /tags/
     <div class="c-nav">
       <ul class="c-nav__list u-lists-reset">
         <!--<li class="c-nav__item is-active">-->
-        <li class="c-nav__item"><a href="https://custom780.github.io"></a>
-          <div data-icon='ei-pencil' data-size='s'></div> Posts</li>
+        <a href="https://custom780.github.io"  style="color: inherit">
+        <li class="c-nav__item">
+          <div data-icon='ei-pencil' data-size='s'></div> Posts</li></a>
         <!--<li class="c-nav__item">-->
-        <li class="c-nav__item"><a href="https://custom780.github.io/tags/"></a>
-          <div data-icon='ei-star' data-size='s'></div> Tags</li>
+        <a href="https://custom780.github.io/tags/">
+        <li class="c-nav__item is-active">
+          <div data-icon='ei-star' data-size='s'></div> Tags</li></a>
       </ul>
     </div>
   </div>
-</header>
+</header> <!-- /.c-header -->
 
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
