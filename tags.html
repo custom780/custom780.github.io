@@ -3,6 +3,31 @@ layout: home
 title: Tags
 permalink: /tags/
 ---
+
+<header class="c-header">
+  <div class="c-header__box">
+    <div class="c-search">
+      <div class="c-search__box">
+        <label for="js-search-input" class="u-screen-reader-text">Search for Blog</label>
+        <input type="text" id="js-search-input" class="c-search__text" autocomplete="off" placeholder="Type to search...">
+        <div data-icon='ei-search' data-size='s'></div>
+      </div>
+      <ul id="js-results-container" class="c-search-results-list"></ul>
+    </div>
+    <div class="c-nav">
+      <ul class="c-nav__list u-lists-reset">
+        <!--<li class="c-nav__item is-active">-->
+        <li class="c-nav__item"><a href="https://custom780.github.io"></a>
+          <div data-icon='ei-pencil' data-size='s'></div> Posts</li>
+        <!--<li class="c-nav__item">-->
+        <li class="c-nav__item"><a href="https://custom780.github.io/tags/"></a>
+          <div data-icon='ei-star' data-size='s'></div> Tags</li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
