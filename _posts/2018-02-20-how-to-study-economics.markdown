@@ -2,7 +2,7 @@
 layout: post
 title: How to study economics
 image: 3.jpg
-date: 2019-01-15 18:23:20 +0200
+date: 2018-02-20 18:23:20 +0700
 tags: [rest, europe]
 categories: rest
 ---
