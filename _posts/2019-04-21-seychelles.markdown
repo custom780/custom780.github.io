@@ -19,6 +19,17 @@ tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud br
 dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. 
 Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
 
+<table>
+<tbody>
+<tr>
+<td><img alt="DESCRIPTION" src="{{site.baseurl}}/images/v1.jpg"/></td>
+<td><img alt="DESCRIPTION" src="{{site.baseurl}}/images/v2.jpg"/></td>
+</tr>
+</tbody>
+</table>
+
+Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
+
 <div class='images_container' style="
    display:flex;
    justify-content:center;
