@@ -17,12 +17,12 @@ meh squid.
 Slow-carb mustache meggings pok pok. Listicle farm-to-table hot chicken, fanny pack hexagon green juice subway 
 tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud bread williamsburg meditation. Four 
 dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. 
-Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
+Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
 
 <div class='images_container' style="
    display:flex;
    justify-content:center;
-   align-elment:center;
+   align-element:center;
    width:100%;">
     <img class="photo_left" style="margin-right: 10px;" src="{{site.baseurl}}/images/v1.jpg" />
     <img class="photo_center" style="margin-right: 10px;" src="{{site.baseurl}}/images/v1.jpg" />
