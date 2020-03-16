@@ -3,7 +3,7 @@ layout: post
 title: Seychelles
 image: tmp4.jpg
 date: 2019-04-21 18:23:20 +0700
-tags: [Africa, test]
+tags: [Africa, 2019]
 categories: africa
 ---
 Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. 
