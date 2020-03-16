@@ -2,12 +2,12 @@ function makeFullScreen() {
 
 
 	// full-screen available?
-	//if (
-	//	document.fullscreenEnabled || 
-	//	document.webkitFullscreenEnabled || 
-	//	document.mozFullScreenEnabled ||
-	//	document.msFullscreenEnabled
-	//) {
+	if (
+		document.fullscreenEnabled || 
+		document.webkitFullscreenEnabled || 
+		document.mozFullScreenEnabled ||
+		document.msFullscreenEnabled
+	) {
 
 		// image container
 		var i = document.getElementById("myImage2");
@@ -52,5 +52,5 @@ function makeFullScreen() {
 
 		}
 
-	//}
+	}
 }
