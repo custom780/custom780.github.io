@@ -23,7 +23,8 @@ Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical c
    display:flex;
    justify-content:center;
    align-elment:center;
-   width:50%;">
+   margin-right: 20px;
+   width:80%;">
     <img class="photo_left" src="{{site.baseurl}}/images/v1.jpg" />
     <img class="photo_right" src="{{site.baseurl}}/images/v2.jpg" />
 </div>
