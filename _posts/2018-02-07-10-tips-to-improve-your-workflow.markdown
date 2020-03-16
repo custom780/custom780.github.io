@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 10 Tips to improve  your workflow
+title: Murmansk
 image: 4.jpg
-date: 2018-02-07 17:13:18 +0200
-tags: workflow programming
-categories:
+date: 2020-02-07 17:13:18 +0200
+tags: [Russia, 2020]
+categories: Russia
 ---
 Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe shoreditch. Prism chambray heirloom, drinking vinegar portland paleo slow-carb. Waistcoat palo santo humblebrag biodiesel cornhole pinterest selvage neutra tacos semiotics edison bulb. Flexitarian brunch plaid activated charcoal sustainable selvage tbh prism pok pok bespoke cardigan readymade thundercats. Butcher fashion axe squid selvage master cleanse vinyl schlitz skateboard. Lomo shaman man bun keffiyeh asymmetrical listicle. Kickstarter trust fund fanny pack post-ironic wayfarers swag kitsch. Shaman pug kale chips meh squid.
 
