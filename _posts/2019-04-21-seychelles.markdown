@@ -34,18 +34,6 @@ Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical 
 </tbody>
 </table>
 
-Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
-
-<div class='images_container' style="
-   display:flex;
-   justify-content:center;
-   align-element:center;
-   width:100%;">
-    <img class="photo_left" style="margin-right: 10px;" src="{{site.baseurl}}/images/v1.jpg" />
-    <img class="photo_center" style="margin-right: 10px;" src="{{site.baseurl}}/images/v1.jpg" />
-    <img class="photo_right" src="{{site.baseurl}}/images/v2.jpg" />
-</div>
-
 Literally succulents chambray pok pok, tbh subway tile bicycle rights selvage cray gastropub pitchfork semiotics readymade 
 organic.Vape flexitarian tumblr raclette organic direct trade. Tacos green juice migas shabby chic, tilde fixie tousled plaid 
 kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse 
