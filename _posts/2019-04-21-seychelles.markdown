@@ -22,6 +22,9 @@ Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical c
 ![]({{site.baseurl}}/images/tmp1.jpg)
 
 <img id="myImage2" class="fullscreen" style="width: 800px;
+        height: auto;" src="{{site.baseurl}}/images/tmp1.jpg" onClick="makeFullScreen()"> 
+
+<img id="myImage2" class="fullscreen" style="width: 800px;
         height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
 > Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest 
