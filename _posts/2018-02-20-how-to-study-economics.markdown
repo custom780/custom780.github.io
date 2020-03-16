@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to study economics
-image: 3.jpg
-date: 2018-02-20 18:23:20 +0700
-tags: [rest, europe]
-categories: rest
+title: Seychelles
+image: tmp4.jpg
+date: 2020-04-21 18:23:20 +0700
+tags: [Africa, 2019]
+categories: 2019
 ---
 Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. 
 Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe 
@@ -19,7 +19,10 @@ tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud br
 dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. 
 Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
 
-![](https://i.imgur.com/h9Y5Art.jpg)
+![]({{site.baseurl}}/images/tmp1.jpg)
+
+<img id="myImage2" class="fullscreen" style="width: 800px;
+        height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
 > Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest 
 next level, williamsburg wayfarers pop-up gochujang distillery PBR&B woke bitters.
