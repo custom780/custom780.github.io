@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Murmansk
-image: 4.jpg
+image: 8.jpg
 date: 2020-02-07 17:13:18 +0200
 tags: [Russia]
 categories: Russia
