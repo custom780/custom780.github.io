@@ -21,7 +21,7 @@ Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical 
 
 Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
 
-<img style="margin-right: 10px" src="{{site.baseurl}}/images/v1.jpg"> <img alt="" src="{{site.baseurl}}/images/v2.jpg"/> 
+<img style="margin-right: 10px; width: 45%" src="{{site.baseurl}}/images/v1.jpg"> <img style="width: 45%" src="{{site.baseurl}}/images/v2.jpg"/> 
 
 Thaundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
 
