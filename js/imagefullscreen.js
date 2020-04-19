@@ -1,16 +1,7 @@
 function makeFullScreen() {
 
-
-	// full-screen available?
-	if (
-		document.fullscreenEnabled || 
-		document.webkitFullscreenEnabled || 
-		document.mozFullScreenEnabled ||
-		document.msFullscreenEnabled
-	) {
-
 		// image container
-		var i = document.getElementById("myImage2");
+		var i = document.getElementById("myImage3");
 
 		// click event handler
 		i.onclick = function() {
@@ -52,5 +43,4 @@ function makeFullScreen() {
 
 		}
 
-	}
 }
