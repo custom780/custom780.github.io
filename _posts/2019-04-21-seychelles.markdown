@@ -39,11 +39,13 @@ organic.Vape flexitarian tumblr raclette organic direct trade. Tacos green juice
 kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse 
 knausgaard palo santo intelligentsia.
 
-![]({{site.baseurl}}/images/tmp1.jpg)
+<img class="ImageFS" src="{{site.baseurl}}/images/tmp1.jpg" onClick="makeFullScreen()"> 
+<img class="ImageFS" src="https://i.imgur.com/84M1el6.jpg" onClick="makeFullScreen()"> 
 
-<img id="myImage2" class="fullscreen" src="{{site.baseurl}}/images/tmp1.jpg" onClick="makeFullScreen()"> 
+flag
 
-<img id="myImage2" class="fullscreen" style="width: 800px;
+<img id="myImage2" src="{{site.baseurl}}/images/tmp1.jpg" onClick="makeFullScreen()"> 
+<img id="myImage2" style="width: 800px;
         height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
 > Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest 
