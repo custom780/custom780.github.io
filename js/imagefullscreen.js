@@ -1,4 +1,4 @@
-function makeFullScreen() {
+function makeFullScreen(e) {
 
 
 	// full-screen available?
@@ -10,8 +10,10 @@ function makeFullScreen() {
 	) {
 
 		// image container
-		var i = document.getElementById("myImage2");
-
+		var i = e.target;
+		//var i = document.getElementById("myImage2");
+		//var i = document.getElementsByClassName("ImageFS");
+		
 		// click event handler
 		i.onclick = function() {
 
