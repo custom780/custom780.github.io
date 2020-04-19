@@ -33,8 +33,6 @@ organic.Vape flexitarian tumblr raclette organic direct trade. Tacos green juice
 kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse 
 knausgaard palo santo intelligentsia.
 
-![]({{site.baseurl}}/images/tmp1.jpg)
-
 flag3
 
 <img id="myImage2" class="fullscreen" style="width: 800px;
