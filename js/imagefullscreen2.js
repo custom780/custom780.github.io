@@ -1,4 +1,4 @@
-function makeFullScreen() {
+function makeFullScreen2() {
 
 
 	// full-screen available?
