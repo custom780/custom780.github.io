@@ -1,6 +1,6 @@
 
 function makeFullScreen(e) {
-  var i = document.getElementById("myImage2");
+  var element = document.getElementById("myImage2");
   //let element = e.target;
   if (
     document.fullscreenEnabled || 
