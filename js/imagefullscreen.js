@@ -1,8 +1,9 @@
-function makeFullScreen() {
+function makeFullScreen(e) {
 
 		// image container
-		var i = document.getElementById("myImage3");
-
+		//var i = document.getElementById("myImage3");
+		var i = e.target;	
+	
 		// click event handler
 		i.onclick = function() {
 
