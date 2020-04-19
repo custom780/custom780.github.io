@@ -34,10 +34,10 @@ kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle
 knausgaard palo santo intelligentsia.
 
 <img class="fullscreen" style="width: 800px;
-        height: auto;" src="https://i.imgur.com/EExOpUk.jpg" onClick="makeFullScreen(event)"> 
+        height: auto;" src="https://i.imgur.com/xP6CSTf.jpg" onClick="makeFullScreen(event)"> 
 
 <img class="fullscreen" style="width: 800px;
-        height: auto;" src="https://i.imgur.com/i6Wx6b9.jpg" onClick="makeFullScreen(event)"> 
+        height: auto;" src="https://i.imgur.com/cPZUItc.jpg" onClick="makeFullScreen(event)"> 
 
 flag5
 
