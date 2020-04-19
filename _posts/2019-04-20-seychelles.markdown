@@ -35,15 +35,10 @@ knausgaard palo santo intelligentsia.
 
 ![]({{site.baseurl}}/images/tmp1.jpg)
 
-<img src="https://i.imgur.com/vEdqAha.jpg" onClick="makeFullScreen()"> 
-<img src="https://i.imgur.com/i6Wx6b9.jpg" onClick="makeFullScreen()"> 
-<img src="https://i.imgur.com/bhiVlNt.jpg" onClick="makeFullScreen()"> 
+flag3
 
-flag2
-
-<img id="myImage2" class="fullscreen" src="https://i.imgur.com/bhiVlNt.jpg" onClick="makeFullScreen()"> 
-
-<img id="myImage2" class="fullscreen" src="{{site.baseurl}}/images/tmp1.jpg" onClick="makeFullScreen()"> 
+<img id="myImage2" class="fullscreen" style="width: 800px;
+        height: auto;" src="https://i.imgur.com/i6Wx6b9.jpg" onClick="makeFullScreen()"> 
 
 <img id="myImage2" class="fullscreen" style="width: 800px;
         height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
