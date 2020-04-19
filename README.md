@@ -3,12 +3,6 @@
 <p>Flexton created especially for those who appreciate minimalism and functionality.</p>
 <p>Amazing flexibility with pleasant colors and custom design makes Flexton a simple theme, suitable for almost any blog.</p>
 
-<h2>Demo</h2>
-
-Check the theme in action [Demo](https://flexton.netlify.com/)
-
-![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
-
 <h2>Features</h2>
 
 <ul>
