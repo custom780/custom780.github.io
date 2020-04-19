@@ -39,7 +39,7 @@ knausgaard palo santo intelligentsia.
 <img src="https://i.imgur.com/i6Wx6b9.jpg" onClick="makeFullScreen()"> 
 <img src="https://i.imgur.com/bhiVlNt.jpg" onClick="makeFullScreen()"> 
 
-flag
+flag2
 
 <img id="myImage2" class="fullscreen" src="https://i.imgur.com/bhiVlNt.jpg" onClick="makeFullScreen()"> 
 
