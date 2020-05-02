@@ -17,9 +17,14 @@ categories: africa
     display: flex;
   }
 
-  .column {
+  .column1 {
     flex: 50.0%;
-    padding: 5px;
+    padding-right: 5px;
+  }
+  
+  .column2 {
+    flex: 50.0%;
+    padding-left: 5px;
   }
   
 </style>
@@ -29,13 +34,14 @@ categories: africa
 И вот, наш самолет совершает посадку в небольшом одноэтажном аэропорту Сейшел, мы обмениваем валюту на местные рупии, и начинается наш долгожданный отпуск. От аренды машины мы решили отказаться, и по приезде убедились, что поступили правильно. Узкие горные дороги, хотя и неплохого качества, левостороннее движение, а местные автобусики, разваливающиеся на ходу, носятся, как угорелые, наводя ужас на легковушки. Это вкратце о ситуации на дорогах. В качестве отеля мы сняли небольшой домик на северо-западном побережье в трёх минутах от лучшего пляжа острова Маэ. Гулять по нему вечерами просто наслаждение — в длину пляж час ходьбы, приятный белый песок, у ног плещется индийский океан, а над головой летают летучие лисицы — такой был наш первый вечер на райском острове, а впереди ещё неделя на его исследование. Поехали!
 
 <div class="row">
-  <div class="column">
-    <img src="https://i.imgur.com/qO0f6pV.jpg" style="width:100%">
+  <div class="column1" style="flex: 50%; padding-right: 5px">
+    <img class="fullscreen" src="https://i.imgur.com/qO0f6pV.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
-  <div class="column">
-    <img src="https://i.imgur.com/OUO9Va2.jpg" style="width:100%">
+  <div class="column2" style="flex: 50%; padding-left: 5px">
+    <img class="fullscreen" src="https://i.imgur.com/OUO9Va2.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
+
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/Yf6HhNI.jpg" onClick="makeFullScreen(event)"> 
