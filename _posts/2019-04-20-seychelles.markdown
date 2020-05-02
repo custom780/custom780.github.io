@@ -37,8 +37,8 @@ categories: africa
 <table>
 <tbody>
 <tr>
-<img class="fullscreen" style="margin-right: 10px; width: 49%" src="https://i.imgur.com/XO8QlVX.jpg"> 
-<img class="fullscreen" style="width: 49%" src="https://i.imgur.com/zjZC7JK.jpg"> 
+<img class="fullscreen" style="margin-right: 10px" src="https://i.imgur.com/XO8QlVX.jpg"> 
+<img class="fullscreen" src="https://i.imgur.com/zjZC7JK.jpg"> 
 </tr>
 </tbody>
 </table>
@@ -249,13 +249,16 @@ categories: africa
 
 Трек оказался хоть и сложным, но приятным испытанием, а приводит он к небольшой смотровой площадке – выступ скалы с деревянным балкончиком с сумасшедшим видом на всю западную часть острова и соседние острова. Настолько высоко, что на проплывающие мимо облака смотришь сверху. Весь остров утопает в зелени, а дальше, насколько хватает глаз, бескрайний океан. Небольшая ливневая тучка проплывала неподалеку и поливала маленький городок, видимо, решила испортить ему день. Со стороны было интересно наблюдать, как при абсолютно чистом небе и ясной погоде из небольшого облачка четким столбом хлещет вода. Спустились мы под огромным впечатлением, и даже остались силы посмотреть еще некоторые уголки острова. 
 
-<img class="fullscreen" style="margin-right: 10px; width: 49.2%" src="https://i.imgur.com/eyTs4av.jpg"> 
-<img class="fullscreen" style="width: 49.2%" src="https://i.imgur.com/bm0urAm.jpg"> 
+<img class="fullscreen" style="margin-right: 10px; width: 49,9%" src="https://i.imgur.com/eyTs4av.jpg"> 
+<img class="fullscreen" style="width: 49,9%" src="https://i.imgur.com/bm0urAm.jpg"> 
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/roR2k5V.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Южная часть острова Маэ</figcaption>
 </figure>
+
+<img class="fullscreen" style="margin-right: 10px; width: 49.9%" src="https://i.imgur.com/eyTs4av.jpg"> 
+<img class="fullscreen" style="width: 49.9%" src="https://i.imgur.com/bm0urAm.jpg"> 
 
 Неподалеку от начала тропы на Морн Блан на холмистых склонах простираются чайные и кофейные плантации. Они настолько сливаются с остальной окружающей растительностью, что не знай мы, что это чай, сами и не поняли бы. Здесь же среди этих полей расположилась небольшая старенькая чайная фабрика, находится она высоко в горах, и поэтому отсюда тоже можно наблюдать несколько красивых видов на океан. У входа фонтанчик в виде чайничка и чашки, чайник раскачивается и наполняет чашку. В магазинчике при фабрике можно купить разные сорта Сейшельских чая и кофе. 
 
