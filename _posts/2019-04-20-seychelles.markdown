@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Свадебное путешествие. Часть 1: Сейшелы
+title: Сейшелы (test)
 image: sc-cover.jpg
 date: 2019-04-20 18:23:20 +0700
 tags: [Africa]
