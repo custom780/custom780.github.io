@@ -88,24 +88,21 @@ categories: africa
 
 У входа на тропу сидит компашка местных тёток с журналом, и каждый входящий должен записаться и оставить свои контакты и адрес проживания на острове – мало ли что может в джунглях случиться, хоть будут знать, кто и откуда потерялся. По идее, должно контролироваться, все ли вышли, но когда мы возвращались, теток уже и след простыл. Как гласит официальная карта у начала тропы, нам предстояло пройти 1.4 километра и подняться на высоту 488 метров. Опасности данный трекинг не представляет – тропа довольно четко просматривается, заблудиться сложно, у нас на всем пути было лишь одно место, где мы слегка сбились с тропы, но довольно быстро нашли дорогу. Ядовитых змей здесь нет, а кусачих насекомых в тропическом лесу нам не встретилось, так что местная фауна неудобств абсолютно не доставляет. Удобная обувь и много воды – вот и все, что нужно. Сама тропа практически полностью пролегает через густой тропический лес, солнце туда проникает слабо, влажность воздуха почти 100%, а температура в районе 33°С. <!--- Поднимаясь в таких условиях, мы быстро выбивались из сил, поэтому часто делали привалы. --> По мере приближения к вершине, деревья редели, влажная почва превращалась в гранитные шероховатые валуны, а наша усталость сменялась предвкушением увидеть райский остров с высоты птичьего полета. Поднявшись на вершину, ты понимаешь, для чего был проделан весь этот путь – окончание тропы представляет собой огромное просторное плато с завораживающим видом на все 360°. И как бонус, стоило нам подняться и осмотреться – увидели неподалеку облако, которое неслось прямо на нас, и вот буквально через мгновение оно накрыло плато. Несколько минут мы были в абсолютно непроницаемом тумане, и это непередаваемое ощущение, когда при видимости 3 метра знаешь, что любой камень может оказаться краем обрыва. А стоило ему рассеяться, перед нами вновь открылся прекрасный обзор на весь остров, горы, океан и соседние острова. <!--- Ещё одним интересным открытием было обнаружить на вершине эндемичные плотоядные растения. Огромный куст, весь усыпанный ловчими листьями в форме кувшинок, привлекает насекомых ароматом нектара, и те, соскальзывая внутрь бутона, становятся пищей для растения. -->
 
-<img class="fullscreen" style="margin-right: 10px; width: 49.3%" src="https://i.imgur.com/XO8QlVX.jpg" onClick="makeFullScreen(event)"> 
-<img class="fullscreen" style="width: 49.3%" src="https://i.imgur.com/zjZC7JK.jpg" onClick="makeFullScreen(event)"> 
+<img class="fullscreen" style="margin-right: 0.9%; width: 49.2%" src="https://i.imgur.com/XO8QlVX.jpg" onClick="makeFullScreen(event)"> 
+<img class="fullscreen" style="width: 49.2%" src="https://i.imgur.com/zjZC7JK.jpg" onClick="makeFullScreen(event)"> 
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/vVE9gS4.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Сбившись с маршрута, пришли к выступу с таким видом</figcaption>
 </figure>
 
-<img class="fullscreen" style="margin-right: 10px; width: 49.3%" src="https://i.imgur.com/qO0f6pV.jpg" onClick="makeFullScreen(event)"> 
-<img class="fullscreen" style="width: 49.3%" src="https://i.imgur.com/OUO9Va2.jpg" onClick="makeFullScreen(event)"> 
+<img class="fullscreen" style="margin-right: 0.9%; width: 49.2%" src="https://i.imgur.com/qO0f6pV.jpg" onClick="makeFullScreen(event)"> 
+<img class="fullscreen" style="width: 49.2%" src="https://i.imgur.com/OUO9Va2.jpg" onClick="makeFullScreen(event)"> 
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/9LGXK6L.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>То самое облачко (улетаеть)</figcaption>
 </figure>
-
-<img class="fullscreen" style="margin-right: 0.9%; width: 49.3%" src="https://i.imgur.com/qO0f6pV.jpg" onClick="makeFullScreen(event)"> 
-<img class="fullscreen" style="width: 49.3%" src="https://i.imgur.com/OUO9Va2.jpg" onClick="makeFullScreen(event)"> 
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/K86k4mP.jpg" onClick="makeFullScreen(event)"> 
