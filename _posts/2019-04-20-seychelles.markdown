@@ -104,7 +104,7 @@ categories: africa
     <figcaption class='img-caption'>То самое облачко (улетаеть)</figcaption>
 </figure>
 
-<img class="fullscreen" style="margin-right: 1.4%; width: 49.3%" src="https://i.imgur.com/qO0f6pV.jpg" onClick="makeFullScreen(event)"> 
+<img class="fullscreen" style="margin-right: 0.9%; width: 49.3%" src="https://i.imgur.com/qO0f6pV.jpg" onClick="makeFullScreen(event)"> 
 <img class="fullscreen" style="width: 49.3%" src="https://i.imgur.com/OUO9Va2.jpg" onClick="makeFullScreen(event)"> 
 
 <figure>
