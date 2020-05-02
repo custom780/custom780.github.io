@@ -1,15 +1,15 @@
 title: Блог о путешествиях
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+description: Блог о Путешествиях
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: test # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    Алексей и Серафима
+author-image:   Делимся впечатлениями о путешествиях.
+author-job:     
+author-email:   karachev@phystech.edu # Add your email for contant form.
+author-twitter: #test # Add your twitter account
+about-author:   Рады видеть вас в нашем блоге. 
 
 # Social settings
 social-twitter:   test
