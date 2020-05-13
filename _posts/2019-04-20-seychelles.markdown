@@ -176,10 +176,6 @@ categories: africa
     <figcaption class='img-caption'>Где-то там через 7000 км. будет Москва</figcaption>
 </figure>
 
-<figure>
-    <img class="fullscreen" src="https://i.imgur.com/56HyZM7.jpg" onClick="makeFullScreen(event)">
-</figure>
-
 <div class="row">
   <div class="column1">
     <img class="fullscreen" src="https://i.imgur.com/QcrCgig.jpg" style="width:100%" onClick="makeFullScreen(event)">
@@ -188,6 +184,11 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/x7dbEy4.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/56HyZM7.jpg" onClick="makeFullScreen(event)">
+</figure>
+
 
 Мы представляли расслабленную прогулку с видами на океан, уединённые пляжи, но на деле все оказалось немного иначе. Абсолютный набор высоты – да, действительно небольшой, но дорога была с постоянно чередующимися подъёмами и спусками, пролегала по открытой местности и ничто не могло защитить от палящего экваториального солнца. Как и в прошлом маршруте, никаких опасностей – заблудиться невозможно, опасных насекомых и животных тоже нет, но обувь желательно иметь удобную — тропа выложена булыжниками, просто сваленными и никак не закрепленными между собой, они легко перекатываются под ногами. Местами тропа была очень узкой, двое бы не разошлись, при том, что слева отвесная скала, а справа обрыв и океан. Еще до начала тропы будет интересная смотровая площадка. Неровный выступ скалы упирается обрывом прямо в океан, а чтобы добраться до края, приходится перепрыгивать расщелины между гигантскими валунами. Зато камни нескользкие, а с обрыва открывается вид на скалы и на океан фантастического лазурного цвета. 
 
@@ -286,10 +287,6 @@ categories: africa
     <figcaption class='img-caption'>До начала тропы мы снова добирались несколько часов, но всё же часть дороги нам помогли преодолеть пара автобусиков</figcaption>
 </figure>
 
-<figure>
-    <img class="fullscreen" src="https://i.imgur.com/6OqErtn.jpg" onClick="makeFullScreen(event)"> 
-</figure>
-
 <div class="row">
   <div class="column1">
     <img class="fullscreen" src="https://i.imgur.com/6FMNNcZ.jpg" style="width:100%" onClick="makeFullScreen(event)">
@@ -298,6 +295,10 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/XrGHcNP.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/6OqErtn.jpg" onClick="makeFullScreen(event)"> 
+</figure>
 
 > Тенрек (щетинистый ёж) – зверёк не из пугливых.
 
