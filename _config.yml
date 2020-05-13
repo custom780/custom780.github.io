@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Алексей и Серафима
+author-name:    Alex & Sima
 author-image:   pair.jpg
 author-job:     Делимся впечатлениями о путешествиях.
 author-email:   karachev@phystech.edu # Add your email for contant form.
