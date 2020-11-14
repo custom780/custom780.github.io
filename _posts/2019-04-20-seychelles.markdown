@@ -366,6 +366,6 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/2HQ9hFL.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bjmeiDlCtMvIKSF4CtzsLEqCqkpc7Xon" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bjmeiDlCtMvIKSF4CtzsLEqCqkpc7Xon"></iframe>
 
 Таким оказался наш последний день на Сейшельском острове Маэ. Нашей поездкой мы у себя в головах окончательно развеяли стереотипы о Сейшелах как об уголке безумных цен и лакшери отелей. Ведь это место с невероятной красоты природой, лазурным океаном, лучшими пляжами в мире и морем впечатлений. Конечно, недели недостаточно, чтобы осмотреть все самые красивые уголки тропического острова, но зато есть повод снова вернуться.
