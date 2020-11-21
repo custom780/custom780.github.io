@@ -2,7 +2,7 @@
 layout: post
 title: "Сейшелы (свадебное путешествие: первая часть)"
 image: sc-cover.jpg
-date: 2019-04-20 18:23:20 +0700
+date: 2020-11-21 15:00:00 +0700
 tags: [Africa]
 categories: africa
 ---
