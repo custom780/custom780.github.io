@@ -35,15 +35,14 @@ categories: africa
 
 Итак, наш маленький самолетик от Air Seychelles повихлял по взлетной полосе аэропорта Сейшел, еле поднялся в воздух, чуть не развалился от турбулентности на подлете к Маврикию, но зато пролетел над самой известной фишкой острова – подводным водопадому юго-западного побережья. И это было просто невероятной удачей, ведь самолеты северного направления редко летают над этой частью острова, а с берега ее разглядеть практически невозможно, разве что с вершины горы Ле-Морн-Брабан (об этом позднее) или с вертолета со специальной экскурсией. Так что, несмотря на технические сложности перелета, его можно назвать удавшимся.
 
-<figure>
-    <img class="fullscreen" src="https://github.com/custom780/mru-photo/blob/main/1.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Аэропорт Маврикия</figcaption>
-</figure>
+
+![2](https://user-images.githubusercontent.com/59577986/103461780-fd19e100-4d31-11eb-9776-948d97efe786.jpg)
+
 
 //тут фото водопада и ещё одна вертикальная
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/1ZKzpbl.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461779-fb501d80-4d31-11eb-987e-98fac1c66091.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Аэропорт Маврикия</figcaption>
 </figure>
 
@@ -51,12 +50,12 @@ categories: africa
 На Маврикии для проживания мы выбрали город Маэбур – географически он находится наиболее выгодно относительно основных достопримечательностей острова, в отличие от столицы Порт-Луи (там мы так и не побывали и, наверное, ничего не потеряли, кроме возможности увидеть статую Ленина, которая там почему-то есть).
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/XU4431F.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461783-fdb27780-4d31-11eb-8580-4ef3a29ed969.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Маэбур (дорогу могут перебегать курочки)</figcaption>
 </figure>
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/L5LVB7G.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461780-fd19e100-4d31-11eb-9776-948d97efe786.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Задние дворики в Маэбуре</figcaption>
 </figure>
 
@@ -71,7 +70,7 @@ categories: africa
 Водопад Шамарель представляет собой два потока, с грохотом срывающиеся с высоты 100 метров в кратер самого настоящего вулкана, хоть и давно недействующего и заросшего джунглями. Даже с самой высокой смотровой площадки рассмотреть водопад целиком довольно сложно из-за его высоты, но вид очень живописный. 
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/PGs2FVl.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461785-ff7c3b00-4d31-11eb-8d5c-ad6933783d65.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Водопад Шамарель</figcaption>
 </figure>
 
