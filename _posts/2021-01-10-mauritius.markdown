@@ -38,7 +38,7 @@ categories: africa
 //тут фото водопада и ещё одна вертикальная
 
 <figure>
-    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461779-fb501d80-4d31-11eb-987e-98fac1c66091.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/1ZKzpbl.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Аэропорт Маврикия</figcaption>
 </figure>
 
@@ -46,18 +46,20 @@ categories: africa
 На Маврикии для проживания мы выбрали город Маэбур – географически он находится наиболее выгодно относительно основных достопримечательностей острова, в отличие от столицы Порт-Луи (там мы так и не побывали и, наверное, ничего не потеряли, кроме возможности увидеть статую Ленина, которая там почему-то есть).
 
 <figure>
-    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461783-fdb27780-4d31-11eb-8580-4ef3a29ed969.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/XU4431F.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Маэбур (дорогу могут перебегать курочки)</figcaption>
 </figure>
 
 <figure>
-    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461780-fd19e100-4d31-11eb-9776-948d97efe786.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/L5LVB7G.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Задние дворики в Маэбуре</figcaption>
 </figure>
 
 ---
 
-//фото
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/5z2yicG.jpg" onClick="makeFullScreen(event)"> 
+</figure>
 
 # Black River Gorges
 
@@ -66,11 +68,24 @@ categories: africa
 Водопад Шамарель представляет собой два потока, с грохотом срывающиеся с высоты 100 метров в кратер самого настоящего вулкана, хоть и давно недействующего и заросшего джунглями. Даже с самой высокой смотровой площадки рассмотреть водопад целиком довольно сложно из-за его высоты, но вид очень живописный. 
 
 <figure>
-    <img class="fullscreen" src="https://user-images.githubusercontent.com/59577986/103461785-ff7c3b00-4d31-11eb-8d5c-ad6933783d65.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/PGs2FVl.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Водопад Шамарель</figcaption>
 </figure>
 
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/fkj37zE.jpg" onClick="makeFullScreen(event)"> 
+</figure>
+
 Цветные пески Шамарель (Terres des Sept Couleurs) – ещё одно чудо острова. Небольшой открытый участок посреди тропических зарослей примечателен тем, что цвета дюн не смешиваются даже при природном воздействии, и при определенном освещении можно различить семь цветов: красный, коричневый, жёлтый, зелёный, фиолетовый, голубой и пурпурный. Все семь мы не разглядели, но было очень интересно погулять вокруг по специально построенным дорожкам, по самим пескам ходить запрещено (формально это не пески, а остатки вулканических пород, которые остывали при разной температуре, а в составе имеют окиси железа и алюминия, чем и обусловлена их гамма, а вот несмешиваемость ученые не могут объяснить до сих пор). В сувенирном можно обзавестись сосудом с песком: если его потрясти, через некоторое время песок вновь расслоится по цветам. 
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/bgHZALO.jpg" onClick="makeFullScreen(event)"> 
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/6QwgW9i.jpg" onClick="makeFullScreen(event)"> 
+</figure>
 
 Здесь же неподалеку находится невероятно живописная смотровая площадка, откуда можно полюбоваться на холмистый ландшафт, покрытый вечнозелёными тропическими лесами, на океан вдали и на городок на его побережье. Ожидали встретить здесь диких обезьян и встретили. Они начали выходить из леса, стоило нам только выйти на площадку и немного осмотреться. Угостили их крекерами и пофоткали, хотя обезьяны не очень-то дружелюбные.
 
