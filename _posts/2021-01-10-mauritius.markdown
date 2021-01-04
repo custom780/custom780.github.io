@@ -128,7 +128,7 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/SblwhFY.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Статуя богини Дурги (Парвати). Её суспруг Шива виднеется справа</figcaption>
+    <figcaption class='img-caption'>Статуя богини Дурги (Парвати). Её супруг Шива виднеется справа</figcaption>
 </figure>
 
 <figure>
@@ -138,7 +138,7 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/W0kfvW4.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Индуистский храм на берегу озера. Вход на территорию охраняет огромная статуя Шивы. Её уникальность в том, что Шива стоит на двух ногах, а не сидит, сложив ноги, как это обычно принято</figcaption>
+    <figcaption class='img-caption'>Индуистский храм на берегу озера</figcaption>
 </figure>
 
 
