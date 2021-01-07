@@ -204,6 +204,15 @@ categories: africa
 
 Инсектариум впечатлит даже тех, кому ну совсем насекомые неинтересны. Огромные жуки, бабочки, пауки, скорпионы и мало ли кто еще. Кроме бабочек, разве что, ни с кем из них не хотелось бы столкнуться вживую.
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/N2yUgUj.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/AAvE8tz.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
 Выходя из парка, встретили игуану по имени Окта, ее можно покормить цветами – раз в день по расписанию. Мы подошли как раз вовремя – она очень быстро наелась и угощения приняла буквально от нескольких человек.
 
 <figure>
@@ -220,11 +229,9 @@ categories: africa
 <div class="row">
   <div class="column1">
     <img class="fullscreen" src="https://i.imgur.com/HkZRi3Q.jpg" style="width:100%" onClick="makeFullScreen(event)">
-    <figcaption class='img-caption'>Бэ Дю Кап</figcaption>
   </div>
   <div class="column2">
     <img class="fullscreen" src="https://i.imgur.com/LvGguI8.jpg" style="width:100%" onClick="makeFullScreen(event)">
-    <figcaption class='img-caption'>Начало тропы на вершину Ле Морна</figcaption>
   </div>
 </div>
 
