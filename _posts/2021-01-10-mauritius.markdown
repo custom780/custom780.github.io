@@ -220,7 +220,7 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/m6ByXtB.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/qCVfDcl.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/fz5vqbv.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
@@ -244,7 +244,7 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/AAvE8tz.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/cdp65ch.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/IlPqyTS.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
