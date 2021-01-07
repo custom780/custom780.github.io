@@ -207,13 +207,22 @@ categories: africa
 
 Вольер с черепахами просто огромный, можно сказать, парк в парке. Здесь спокойно можно прогуляться рядом с ними, покормить, погладить, а детям до 12 еще и покататься на них (вес панциря взрослой черепахи около 200кг, так что вряд ли они заметят разницу). Пока не окажешься рядом с такой черепахой, сложно представить, насколько они действительно большие. Тортилы медлительны и дружелюбны, спокойно берут еду из рук, но могут случайно сделать кусь (но совсем не больно, мы на себе проверили). Неожиданно среди черепах разгуливал олень. Выход из вольера – это одна жёрдочка на высоте примерно полуметра, и мы не понимали, чего он не выходит. Позже встретили этого же оленя в другом конце парка, так что очень даже выходит и гуляет везде, где вздумается. 
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/kqL99HO.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/P8HcuDN.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
 Кроме милах-черепашек в парке много других животных.
 
 Инсектариум впечатлит даже тех, кому ну совсем насекомые неинтересны. Огромные жуки, бабочки, пауки, скорпионы и мало ли кто еще. Кроме бабочек, разве что, ни с кем из них не хотелось бы столкнуться вживую.
 
 <div class="row">
   <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/N2yUgUj.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/m6ByXtB.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
     <img class="fullscreen" src="https://i.imgur.com/AAvE8tz.jpg" style="width:100%" onClick="makeFullScreen(event)">
@@ -290,7 +299,14 @@ categories: africa
 
 ---
 
-
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/ucqzEjn.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/UVgNIUw.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
 
 
 <figure>
