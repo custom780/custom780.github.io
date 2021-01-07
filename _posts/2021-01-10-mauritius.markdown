@@ -217,7 +217,16 @@ categories: africa
 
 Полуостров Ле Морн-Брабан на юго-западе Маврикия, включенный в список всемирного наследия ЮНЕСКО, знаменит своими живописными пляжами и бухтами, и возвышающейся над ними не менее известной горой Ле Морн. По легенде, в начале 19-го века в многочисленных пещерах на склоне горы прятались беглые рабы. Из-за опасных склонов и труднодоступности вершины искать их там и возвращать никто не спешил. После отмены рабства, 1 февраля 1835 года, власти направили на гору полицейскую экспедицию, чтобы сообщить рабам, что они свободны. Однако беглецы подумали, что полицейские идут их арестовать и начали спрыгивать с горы. С тех пор день 1 февраля отмечается на Маврикии, как день отмены рабства.Сегодня посещение горы доступно для всех туристов, однако стоит быть готовым к довольно сложному восхождению на вершину.
 
-//maconde + vert
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/HkZRi3Q.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Бэ Дю Кап</figcaption>
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/LvGguI8.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Начало тропы на вершину Ле Морна</figcaption>
+  </div>
+</div>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/Gvmti0F.jpg" onClick="makeFullScreen(event)">
@@ -252,7 +261,7 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/fU6NX6E.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Мини автовокзал в Ривье де Гале</figcaption>
+    <figcaption class='img-caption'>Мини-автовокзал в Ривье де Гале</figcaption>
 </figure>
 
 
