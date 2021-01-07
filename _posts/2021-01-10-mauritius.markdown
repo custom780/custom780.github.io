@@ -34,7 +34,14 @@ categories: africa
 
 Итак, наш маленький самолетик от Air Seychelles повихлял по взлетной полосе аэропорта Сейшел, еле поднялся в воздух, чуть не развалился от турбулентности на подлете к Маврикию, но зато пролетел над самой известной фишкой острова – подводным водопадому юго-западного побережья. И это было просто невероятной удачей, ведь самолеты северного направления редко летают над этой частью острова, а с берега ее разглядеть практически невозможно, разве что с вершины горы Ле-Морн-Брабан (об этом позднее) или с вертолета со специальной экскурсией. Так что, несмотря на технические сложности перелета, его можно назвать удавшимся.
 
-//тут фото водопада и ещё одна вертикальная
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/9aLLX07.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/UyytfAX.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/1ZKzpbl.jpg" onClick="makeFullScreen(event)"> 
