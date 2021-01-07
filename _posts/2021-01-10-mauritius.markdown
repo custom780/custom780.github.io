@@ -122,6 +122,16 @@ categories: africa
 
 Высшая точка Маврикия имеет высоту 828 метров и лучший панорамный вид на остров. На самом пике стоит маленькая скамейка (отсюда и название вершины – Bench 828). Чтобы сюда добраться, нужно пройти очередной трекинговый маршрут. Первые 95% тропы – это довольно причудливый тоннель: протоптанная земляная дорога одинаковой ширины на всем протяжении, а по бокам – сплошная стена из какого-то кустарника, аркой смыкающегося над тропой. Выглядит очень необычно и даже сказочно, то и дело ожидаешь за поворотом выйти то ли к замку, то ли к пряничному домику. А вот последние 5% чуть более экстремальные. Практически вертикальный подъем, под ногами сухая скользкая земля, а камней или коряг, чтоб зацепиться, практически нет, хоть и проложена какая-то непонятная верёвка, за которую можно вроде как держаться. Но с вершины вид и вправду завораживающий. 
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/f5Iunl6.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/FSSDhco.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/gOW3xik.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>С тропы проглядывается высшая точка Маврикия</figcaption>
@@ -205,6 +215,15 @@ categories: africa
 
 Новый день и попытка номер два. В понедельник туристов, желающих посетить Ла Ваниль, уже оказалось гораздо меньше. Главные герои этого парка – крокодилы и гигантские черепахи, и начали мы с шоу кормления первых. Выглядит все довольно захватывающе, крокодилы громоздятся друг на друга в пирамиду, хватая куски мяса, которые им в вольер спускают на веревке.
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/m6ByXtB.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/qCVfDcl.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
 Вольер с черепахами просто огромный, можно сказать, парк в парке. Здесь спокойно можно прогуляться рядом с ними, покормить, погладить, а детям до 12 еще и покататься на них (вес панциря взрослой черепахи около 200кг, так что вряд ли они заметят разницу). Пока не окажешься рядом с такой черепахой, сложно представить, насколько они действительно большие. Тортилы медлительны и дружелюбны, спокойно берут еду из рук, но могут случайно сделать кусь (но совсем не больно, мы на себе проверили). Неожиданно среди черепах разгуливал олень. Выход из вольера – это одна жёрдочка на высоте примерно полуметра, и мы не понимали, чего он не выходит. Позже встретили этого же оленя в другом конце парка, так что очень даже выходит и гуляет везде, где вздумается. 
 
 <div class="row">
@@ -222,17 +241,23 @@ categories: africa
 
 <div class="row">
   <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/m6ByXtB.jpg" style="width:100%" onClick="makeFullScreen(event)">
-  </div>
-  <div class="column2">
     <img class="fullscreen" src="https://i.imgur.com/AAvE8tz.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/cdp65ch.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
 </div>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/7kggXJx.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Около входа в парк живёт семья необычных уток – они спокойно гуляют по одной дорожке вместе с посетителями парка и оленем</figcaption>
+</figure>
+
 
 Выходя из парка, встретили игуану по имени Окта, ее можно покормить цветами – раз в день по расписанию. Мы подошли как раз вовремя – она очень быстро наелась и угощения приняла буквально от нескольких человек.
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/KhSHxOl.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/7kggXJx.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>По такой дороге возвращались на автобусную остановку</figcaption>
 </figure>
 
