@@ -138,22 +138,16 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/W0kfvW4.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Индуистский храм на берегу озера</figcaption>
 </figure>
-
-
-
-
-
-
-two verticals:
 
 <div class="row">
   <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/uv82uUK.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/KGeXQxq.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Шива</figcaption>
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/c9H5f4K.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/I3JLyVU.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Дурга</figcaption>
   </div>
 </div>
 
