@@ -249,7 +249,7 @@ categories: africa
 </div>
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/7kggXJx.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/RlRRRIx.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Около входа в парк живёт семья необычных уток – они спокойно гуляют по одной дорожке вместе с посетителями парка и оленем</figcaption>
 </figure>
 
