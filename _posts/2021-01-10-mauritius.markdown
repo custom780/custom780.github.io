@@ -186,7 +186,7 @@ categories: africa
 ---
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/1j3O3Vm.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/CE17ywj.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
 # Мыс Гри-Гри и «Плачущая скала»
@@ -209,16 +209,28 @@ categories: africa
 
 Мыс Gris-Gris – единственное место, где обрывается барьерный риф, окружающий остров и защищающий его от бушующего Индийского океана. Здесь ветер сбивает с ног, заглушая любые звуки, а громадные волны с силой обрушиваются на каменистый утёс, разлетаясь на миллиарды брызг и окатывая прохладой.
 
-
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/j1eGVZy.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/1j3O3Vm.jpg" onClick="makeFullScreen(event)"> 
 </figure>
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/X3bPLlP.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/Men5V20.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+Неподалеку отсюда есть ещё один мыс – La Roche Qui Pleure («Плачущая скала»), а дорога к нему проходит через небольшой хвойный лесок. И если Gris-Gris – это ровное просторное плато, покрытое травой, благоустроенное местами для пикника и беседками, а от волн долетают лишь брызги, то здесь мы увидели массивный каменный выступ, неровный и неправильной формы, а волны такой высоты, что на краю обрушиваются на мыс сверху. Ощущения такие, будто стоишь на краю земли, и это в какой-то мере правда – впереди, далеко за океаном, только Антарктида. Места невероятно атмосферные, здесь можно по-настоящему почувствовать силу и мощь природы. Мы провели здесь почти весь день – уходить не хотелось совершенно.
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/CMmGb8v.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
-Неподалеку отсюда есть ещё один мыс – La Roche Qui Pleure («Плачущая скала»), а дорога к нему проходит через небольшой хвойный лесок. И если Gris-Gris – это ровное просторное плато, покрытое травой, благоустроенное местами для пикника и беседками, а от волн долетают лишь брызги, то здесь мы увидели массивный каменный выступ, неровный и неправильной формы, а волны такой высоты, что на краю обрушиваются на мыс сверху. Ощущения такие, будто стоишь на краю земли, и это в какой-то мере правда – впереди, далеко за океаном, только Антарктида. Места невероятно атмосферные, здесь можно по-настоящему почувствовать силу и мощь природы. Мы провели здесь почти весь день – уходить не хотелось совершенно.
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/CyJXneF.jpg" onClick="makeFullScreen(event)"> 
+</figure>
 
 ---
 
@@ -241,12 +253,16 @@ categories: africa
 
 Вольер с черепахами просто огромный, можно сказать, парк в парке. Здесь спокойно можно прогуляться рядом с ними, покормить, погладить, а детям до 12 еще и покататься на них (вес панциря взрослой черепахи около 200кг, так что вряд ли они заметят разницу). Пока не окажешься рядом с такой черепахой, сложно представить, насколько они действительно большие. Тортилы медлительны и дружелюбны, спокойно берут еду из рук, но могут случайно сделать кусь (но совсем не больно, мы на себе проверили). Неожиданно среди черепах разгуливал олень. Выход из вольера – это одна жёрдочка на высоте примерно полуметра, и мы не понимали, чего он не выходит. Позже встретили этого же оленя в другом конце парка, так что очень даже выходит и гуляет везде, где вздумается. 
 
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/qm6QeWk.jpg" onClick="makeFullScreen(event)"> 
+</figure>
+
 <div class="row">
   <div class="column1">
     <img class="fullscreen" src="https://i.imgur.com/kqL99HO.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/P8HcuDN.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/wZ6XwuV.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
