@@ -51,10 +51,12 @@ categories: africa
 
 На Маврикии для проживания мы выбрали город Маэбур – географически он находится наиболее выгодно относительно основных достопримечательностей острова, в отличие от столицы Порт-Луи (там мы так и не побывали и, наверное, ничего не потеряли, кроме возможности увидеть статую Ленина, которая там почему-то есть).
 
+<!--
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/XU4431F.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Маэбур (дорогу могут перебегать курочки)</figcaption>
 </figure>
+-->
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/L5LVB7G.jpg" onClick="makeFullScreen(event)"> 
@@ -131,7 +133,6 @@ categories: africa
   </div>
 </div>
 
-
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/gOW3xik.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>С тропы проглядывается высшая точка Маврикия</figcaption>
@@ -141,7 +142,6 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/RVJSDO2.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Вид в обратную сторону уже с вершины</figcaption>
 </figure>
-
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/gGU5Xxw.jpg" onClick="makeFullScreen(event)"> 
@@ -288,15 +288,19 @@ categories: africa
 
 Выходя из парка, встретили игуану по имени Окта, ее можно покормить цветами – раз в день по расписанию. Мы подошли как раз вовремя – она очень быстро наелась и угощения приняла буквально от нескольких человек.
 
+<!--
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/7kggXJx.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>По такой дороге возвращались на автобусную остановку</figcaption>
 </figure>
+-->
 
+<!--
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/Xi0FPIa.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Автобусная остановка в типичном небольшом посёлке</figcaption>
 </figure>
+-->
 
 ---
 
@@ -374,6 +378,7 @@ categories: africa
 
 ---
 
+<!--
 <div class="row">
   <div class="column1">
     <img class="fullscreen" src="https://i.imgur.com/ucqzEjn.jpg" style="width:100%" onClick="makeFullScreen(event)">
@@ -382,6 +387,7 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/UVgNIUw.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
+-->
 
 
 <figure>
