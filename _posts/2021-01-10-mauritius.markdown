@@ -300,6 +300,11 @@ categories: africa
 
 ---
 
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/GGRrtyb.jpg" onClick="makeFullScreen(event)">
+</figure>
+
 # Полуостров Ле-Морн-Брабан
 
 Полуостров Ле Морн-Брабан на юго-западе Маврикия, включенный в список всемирного наследия ЮНЕСКО, знаменит своими живописными пляжами и бухтами, и возвышающейся над ними не менее известной горой Ле Морн. По легенде, в начале 19-го века в многочисленных пещерах на склоне горы прятались беглые рабы. Из-за опасных склонов и труднодоступности вершины искать их там и возвращать никто не спешил. После отмены рабства, 1 февраля 1835 года, власти направили на гору полицейскую экспедицию, чтобы сообщить рабам, что они свободны. Однако беглецы подумали, что полицейские идут их арестовать и начали спрыгивать с горы. С тех пор день 1 февраля отмечается на Маврикии, как день отмены рабства.Сегодня посещение горы доступно для всех туристов, однако стоит быть готовым к довольно сложному восхождению на вершину.
@@ -338,9 +343,18 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/5dKKHx5.jpg" onClick="makeFullScreen(event)">
-    <figcaption class='img-caption'>Вид с вершины Ле Морна</figcaption>
+    <figcaption class='img-caption'>Вид с вершины Ле Морна (высота 556 метров)</figcaption>
 </figure>
 
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/DNV6pBS.jpg" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Подводный водопад всё-таки просматривается только с воздуха</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/22ajkZm.jpg" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Можно заметить высшую точку Маврикия, с которой мы уже видели Ле Морн в начале поездки</figcaption>
+</figure>
 
 
 Домой возвращались на тех же трёх автобусах – уставшие, но счастливые.
@@ -372,6 +386,10 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/4XQxDT1.jpg" onClick="makeFullScreen(event)"> 
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/5VJdMjT.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
 
