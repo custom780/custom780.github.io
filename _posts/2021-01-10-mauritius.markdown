@@ -401,4 +401,4 @@ categories: africa
 
 > Подъём от отеля к началу тропы занял пару часов – больше, чем по самому маршруту (мы любим ходить пешком).
 
-Места из статьи: <a target="_blank" rel="noopener noreferrer" href="">карта</a>
+Места из статьи: <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/d/u/1/embed?mid=15WGkFTanVYz-BjZt0fPeTd254Pic7NeO">карта</a>
