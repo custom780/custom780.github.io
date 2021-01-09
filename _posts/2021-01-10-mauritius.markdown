@@ -331,6 +331,15 @@ categories: africa
 Полуостров Ле Морн-Брабан на юго-западе Маврикия, включенный в список всемирного наследия ЮНЕСКО, знаменит своими живописными пляжами и бухтами, и возвышающейся над ними не менее известной горой Ле Морн. 
 > По легенде, в начале 19-го века в многочисленных пещерах на склоне горы прятались беглые рабы. Из-за опасных склонов и труднодоступности вершины искать их там и возвращать никто не спешил. После отмены рабства, 1 февраля 1835 года, власти направили на гору полицейскую экспедицию, чтобы сообщить рабам, что они свободны. Однако беглецы подумали, что полицейские идут их арестовать и начали спрыгивать с горы. С тех пор день 1 февраля отмечается на Маврикии, как день отмены рабства.Сегодня посещение горы доступно для всех туристов, однако стоит быть готовым к довольно сложному восхождению на вершину.
 
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/uHnidRD.jpg" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>Вид с монумента на Бэ дю Кап</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/Gvmti0F.jpg" onClick="makeFullScreen(event)">
+</figure>
+
 <div class="row">
   <div class="column1">
     <img class="fullscreen" src="https://i.imgur.com/HkZRi3Q.jpg" style="width:100%" onClick="makeFullScreen(event)">
@@ -341,8 +350,8 @@ categories: africa
 </div>
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/Gvmti0F.jpg" onClick="makeFullScreen(event)">
-    <figcaption class='img-caption'>Дорога на Ле Морн</figcaption>
+    <img class="fullscreen" src="https://i.imgur.com/JVEdI5z.jpg" onClick="makeFullScreen(event)">
+    <figcaption class='img-caption'>По дороге на Ле Морн</figcaption>
 </figure>
 
 Записываемся в журнал у подножия и в путь. Условно подъём можно поделить на два этапа: первый – широкая (вполне проедет внедорожник) и не очень крутая дорога, занимает примерно половину пути. Заканчивается она перед закрытыми воротами с кучей предупреждающих знаков и табличек. Дальше второй этап – подъем сложный и опасный, людям со страхом высоты или физически не готовым лучше развернуться. Кстати, многие так и делают – доходят до ворот, отдыхают на скамеечке и спускаются по другой тропе. А любителей активно отдохнуть ждет настоящее приключение. Часть пути у вершины – почти свободное лазанье по отвесной скале по соседству с обрывом, так что покорение Ле Морна – тест не только на физическую подготовку, но и на смелость. Зато виды с вершины и чувство победы над собой всё компенсируют.
@@ -416,6 +425,10 @@ categories: africa
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/FKVW8wJ.jpg" onClick="makeFullScreen(event)"> 
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/gd4Y4nr.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
 Места из статьи: <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/d/u/1/embed?mid=15WGkFTanVYz-BjZt0fPeTd254Pic7NeO">карта</a>
