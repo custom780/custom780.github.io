@@ -206,7 +206,7 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/2wFnYVv.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/XcDrgW1.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/wSNvQMe.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
@@ -393,8 +393,6 @@ categories: africa
 </figure>
 
 # Пляж Пон Дени
-
----
 
 <!--
 <div class="row">
