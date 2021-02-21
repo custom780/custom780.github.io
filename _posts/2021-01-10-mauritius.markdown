@@ -401,7 +401,7 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/hL98nvN.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
-# Пляж Пон Дени
+# Pointe d'Esny
 
 <!--
 <div class="row">
@@ -419,6 +419,8 @@ categories: africa
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/5VJdMjT.jpg" onClick="makeFullScreen(event)"> 
 </figure>
+
+# Пляж Pointe d'Esny
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/FKVW8wJ.jpg" onClick="makeFullScreen(event)"> 
