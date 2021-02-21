@@ -414,10 +414,7 @@ categories: africa
 </div>
 -->
 
-
-<figure>
-    <img class="fullscreen" src="https://i.imgur.com/4XQxDT1.jpg" onClick="makeFullScreen(event)"> 
-</figure>
+Оставшийся день нашей поездки мы провели на пляже в Blue Bay. Возвращались домой вдоль береговой линии пляжа Pointe d'Esny до самого Маэбура. Как ни странно, встречали мы только местных – у туристов эти места не особо популярны, зато самые обеспеченные маврикийцы на своих виллах живут именно здесь. Лазурное море и просторный песчаный пляж – нам очень понравилось.
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/5VJdMjT.jpg" onClick="makeFullScreen(event)"> 
@@ -430,5 +427,11 @@ categories: africa
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/gd4Y4nr.jpg" onClick="makeFullScreen(event)"> 
 </figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/4XQxDT1.jpg" onClick="makeFullScreen(event)"> 
+</figure>
+
+Спусти некоторое время уже и не верится, что все эти фотографии сделаны нами — как так получилось, что мы там были? Осознание того, что в мире столько уникальных уголков, которые хочется посетить, вызывает одновременно как чувство предвкушения, так и лёгкое возмущение отсутствием возможности иногда останавливать ход времени. Маврикию мы говорим «спасибо» за эмоции и гостеприимство, а в уме уже строим планы для будущих поездок.
 
 Места из статьи: <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/d/u/1/embed?mid=15WGkFTanVYz-BjZt0fPeTd254Pic7NeO">карта</a>
