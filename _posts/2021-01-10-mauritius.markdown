@@ -2,7 +2,7 @@
 layout: post
 title: "Маврикий (свадебное путешествие: вторая часть)"
 image: mr-cover.jpg
-date: 2021-01-10 15:00:00 +0700
+date: 2021-02-21 15:00:00 +0700
 tags: [Africa]
 categories: africa
 ---
