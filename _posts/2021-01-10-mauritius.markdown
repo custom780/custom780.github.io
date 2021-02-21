@@ -420,6 +420,15 @@ categories: africa
     <img class="fullscreen" src="https://i.imgur.com/5VJdMjT.jpg" onClick="makeFullScreen(event)"> 
 </figure>
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/UagB946.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/aM6CiI9.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/FKVW8wJ.jpg" onClick="makeFullScreen(event)"> 
 </figure>
