@@ -2,10 +2,10 @@ function makeFullScreen(e) {
 
 		// image container
 		//var i = document.getElementById("myImage3");
-		//var i = e.currentTarget;
+		var i = e.currentTarget;
 	
 		// click event handler
-		e.currentTarget.onclick = function() {
+		i.onclick = function() {
 
 			// in full-screen?
 			if (
