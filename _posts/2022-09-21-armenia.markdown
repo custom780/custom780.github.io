@@ -30,18 +30,62 @@ categories: asia
   
 </style>
 
+# Дорога до Татева
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/P2VlxbY.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Вид на Арарат около монастыря Хор Вирап</figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/VKewzxa.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Ущелье Нораванк</figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/SZ8WTlS.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Татевский монастырь</figcaption>
+</figure>
+
+
 # Севан
 
 <div class="row">
   <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/VHcKyaa.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/eavU3OO.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/eavU3OO.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/VHcKyaa.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/LQxqeu4.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+# Дорога до монастыря Герард
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/WexWGR7.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Арка Чаренца</figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/dlo1a9A.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/dlo1a9A.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/yqcuu9S.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'></figcaption>
 </figure>
