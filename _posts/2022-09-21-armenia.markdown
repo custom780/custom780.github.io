@@ -30,6 +30,8 @@ categories: asia
   
 </style>
 
+Фотоотчёт о поездке в Армению, куда в моменте билеты стоили в десять раз больше обычного. 
+
 # Дорога до Татева
 
 <figure>
@@ -73,11 +75,6 @@ categories: asia
     <figcaption class='img-caption'>Арка Чаренца</figcaption>
 </figure>
 
-
-<figure>
-    <img class="fullscreen" src="https://i.imgur.com/dlo1a9A.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'></figcaption>
-</figure>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/dlo1a9A.jpg" onClick="makeFullScreen(event)"> 
