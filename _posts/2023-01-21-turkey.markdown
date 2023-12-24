@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Турция"
-image: am-cover.jpg
+image: tr/IMG_1016.jpg
 date: 2023-01-21 15:00:00 +0700
 tags: [Asia]
 categories: asia
@@ -35,18 +35,18 @@ categories: asia
 # Каппадокия
 
 <figure>
-    <img class="fullscreen" src="tr/IMG_0558.heic" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="tr/IMG_0558.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Фото 1</figcaption>
 </figure>
 
 
 <figure>
-    <img class="fullscreen" src="tr/IMG_0814.heic" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="tr/IMG_0814.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Фото 2</figcaption>
 </figure>
 
 
 <figure>
-    <img class="fullscreen" src="tr/IMG_0825.heic" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="tr/IMG_0825.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Фото 3</figcaption>
 </figure>
