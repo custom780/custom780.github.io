@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Турция"
-image: tr/IMG_1016.heic
+image: am-cover.jpg
 date: 2024-01-21 15:00:00 +0700
 tags: [Asia]
 categories: asia
