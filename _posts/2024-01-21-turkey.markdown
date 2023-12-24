@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Турция"
+image: tr/IMG_1016.heic
+date: 2024-01-21 15:00:00 +0700
+tags: [Asia]
+categories: asia
+---
+
+<style>
+  .img-caption {
+     text-align: center;
+     color: gray;
+  }
+  
+  .row {
+    display: flex;
+    padding-bottom: 1.6%;
+  }
+
+  .column1 {
+    flex: 50.0%;
+    padding-right: 0.8%;
+  }
+  
+  .column2 {
+    flex: 50.0%;
+    padding-left: 0.8%;
+  }
+  
+</style>
+
+Каппадокия и Стамбул. 
+
+# Каппадокия
+
+<figure>
+    <img class="fullscreen" src="tr/IMG_0558.heic" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Фото 1</figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="tr/IMG_0814.heic" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Фото 2</figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="tr/IMG_0825.heic" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Фото 3</figcaption>
+</figure>
