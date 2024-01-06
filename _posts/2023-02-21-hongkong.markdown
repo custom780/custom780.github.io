@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Гонконг и Макао"
+image: tr/6.jpg
+date: 2023-02-21 15:00:00 +0700
+tags: [Asia]
+categories: asia
+---
+
+<style>
+  .img-caption {
+     text-align: center;
+     color: gray;
+  }
+  
+  .row {
+    display: flex;
+    padding-bottom: 1.6%;
+  }
+
+  .column1 {
+    flex: 50.0%;
+    padding-right: 0.8%;
+  }
+  
+  .column2 {
+    flex: 50.0%;
+    padding-left: 0.8%;
+  }
+  
+</style>
+
+Гонконг. 
+
+# Гонконг
+
+<figure>
+    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/1.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Good Wish Garden (Wong Tai Sin Temple)</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/3.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Fung Tak Estate</figcaption>
+</figure>
+
+
+<figure>
+    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/4.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Nan Lian Garden</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/8.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/9.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Lantau Peak (Path of Wisdom)</figcaption>
+</figure>
