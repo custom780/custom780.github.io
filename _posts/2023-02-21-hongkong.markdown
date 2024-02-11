@@ -30,8 +30,6 @@ categories: asia
   
 </style>
 
-Гонконг. 
-
 # Гонконг
 
 <figure>
@@ -39,28 +37,11 @@ categories: asia
     <figcaption class='img-caption'></figcaption>
 </figure>
 
+## Храмы
+
 <figure>
     <img class="fullscreen" src="https://imgur.com/bv5VVIC.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Good Wish Garden (Wong Tai Sin Temple)</figcaption>
-</figure>
-
-<figure>
-    <img class="fullscreen" src="https://i.imgur.com/z79dfXL.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Fung Tak Estate</figcaption>
-</figure>
-
-<div class="row">
-  <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/Y5KotEM.jpg" style="width:100%" onClick="makeFullScreen(event)">
-  </div>
-  <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/ejMVFES.jpg" style="width:100%" onClick="makeFullScreen(event)">
-  </div>
-</div>
-
-<figure>
-    <img class="fullscreen" src="https://i.imgur.com/Edp7Am1.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>*, * и Nan Lian Garden</figcaption>
+    <figcaption class='img-caption'>Сад при храме Вонтайсинь)</figcaption>
 </figure>
 
 <div class="row">
@@ -69,6 +50,22 @@ categories: asia
   </div>
   <div class="column2">
     <img class="fullscreen" src="https://i.imgur.com/YGmHXKW.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/Edp7Am1.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Монастырь Чилинь, храм Войтайсинь и Сад Нан Лянь</figcaption>
+</figure>
+
+## Городская среда
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/Y5KotEM.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/ejMVFES.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
@@ -87,17 +84,16 @@ categories: asia
 </div>
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/VM4I1LI.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'></figcaption>
+    <img class="fullscreen" src="https://i.imgur.com/z79dfXL.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Fung Tak Estate</figcaption>
 </figure>
 
 <figure>
-    <img class="fullscreen" src="https://i.imgur.com/t7emhiV.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'></figcaption>
+    <img class="fullscreen" src="https://i.imgur.com/ysdMWqT.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Вид на Гонконг с пика Виктория</figcaption>
 </figure>
 
-
-
+## Макао
 
 <div class="row">
   <div class="column1">
@@ -114,8 +110,15 @@ categories: asia
 </figure>
 
 <figure>
+    <img class="fullscreen" src="https://i.imgur.com/t7emhiV.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Казино Venetian (на момент открытия в 2007 являлось крупнейшим в мире и третьим по площади помещений)</figcaption>
+</figure>
+
+## Остров Лантау
+
+<figure>
     <img class="fullscreen" src="https://i.imgur.com/2cfUsgT.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Lantau Peak (Path of Wisdom)</figcaption>
+    <figcaption class='img-caption'>Пик Лантау (Path of Wisdom)</figcaption>
 </figure>
 
 <figure>
