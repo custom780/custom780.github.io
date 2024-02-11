@@ -71,7 +71,7 @@ categories: asia
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/shmfXPd.jpeg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'></figcaption>
+    <figcaption class='img-caption'>Район, где находится инстаграмный Monster Building</figcaption>
 </figure>
 
 <div class="row">
@@ -97,10 +97,10 @@ categories: asia
 
 <div class="row">
   <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/KCBVB9H.jpg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/EotlK0C.jpeg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
   <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/EotlK0C.jpeg" style="width:100%" onClick="makeFullScreen(event)">
+    <img class="fullscreen" src="https://i.imgur.com/KCBVB9H.jpg" style="width:100%" onClick="makeFullScreen(event)">
   </div>
 </div>
 
@@ -151,7 +151,12 @@ categories: asia
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/2cfUsgT.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Пик Лантау (Path of Wisdom)</figcaption>
+    <figcaption class='img-caption'>Пик Лантау</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/djhjoFk.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
 </figure>
 
 <figure>
