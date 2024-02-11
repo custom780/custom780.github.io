@@ -41,7 +41,7 @@ categories: asia
 
 <figure>
     <img class="fullscreen" src="https://imgur.com/bv5VVIC.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Сад при храме Вонтайсинь)</figcaption>
+    <figcaption class='img-caption'>Сад при храме Вонтайсинь</figcaption>
 </figure>
 
 <div class="row">
@@ -85,7 +85,7 @@ categories: asia
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/z79dfXL.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Fung Tak Estate</figcaption>
+    <figcaption class='img-caption'>Здание Fung Tak</figcaption>
 </figure>
 
 <figure>
@@ -94,6 +94,21 @@ categories: asia
 </figure>
 
 ## Макао
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/KCBVB9H.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/EotlK0C.jpeg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/f1HUsQ3.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Континентальный Макао</figcaption>
+</figure>
+
 
 <div class="row">
   <div class="column1">
@@ -106,8 +121,17 @@ categories: asia
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/FDyNP0Y.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Южная часть Макао</figcaption>
+    <figcaption class='img-caption'>Островная часть Макао</figcaption>
 </figure>
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/5zDIFH3.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/ADIMMaM.jpeg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/t7emhiV.jpg" onClick="makeFullScreen(event)"> 
@@ -115,6 +139,15 @@ categories: asia
 </figure>
 
 ## Остров Лантау
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/EyyvMPD.jpeg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/WAhIQ48.jpeg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/2cfUsgT.jpg" onClick="makeFullScreen(event)"> 
