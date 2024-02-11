@@ -35,27 +35,95 @@ categories: asia
 # Гонконг
 
 <figure>
-    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/1.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://imgur.com/bv5VVIC" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Good Wish Garden (Wong Tai Sin Temple)</figcaption>
 </figure>
 
 <figure>
-    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/3.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/z79dfXL.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Fung Tak Estate</figcaption>
 </figure>
 
 
 <figure>
-    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/4.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/Edp7Am1.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Nan Lian Garden</figcaption>
 </figure>
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/WjFIRoz.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/YGmHXKW.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+
+
 <figure>
-    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/8.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/vhsIHuU.jpeg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'></figcaption>
 </figure>
 
 <figure>
-    <img class="fullscreen" src="https://raw.githubusercontent.com/custom780/custom780.github.io/master/images/hk/9.jpg" onClick="makeFullScreen(event)"> 
+    <img class="fullscreen" src="https://i.imgur.com/shmfXPd.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/VM4I1LI.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/t7emhiV.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/FDyNP0Y.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/2cfUsgT.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Lantau Peak (Path of Wisdom)</figcaption>
 </figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/bBYWNz0.jpg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/ZM7fgWC.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/GxJpKn0.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/Y5KotEM.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/ejMVFES.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/3W4pLtt.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/dsBBJ4p.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+
+
