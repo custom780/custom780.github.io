@@ -49,10 +49,18 @@ categories: asia
     <figcaption class='img-caption'>Fung Tak Estate</figcaption>
 </figure>
 
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="https://i.imgur.com/Y5KotEM.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="https://i.imgur.com/ejMVFES.jpg" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/Edp7Am1.jpg" onClick="makeFullScreen(event)"> 
-    <figcaption class='img-caption'>Nan Lian Garden</figcaption>
+    <figcaption class='img-caption'>*, * и Nan Lian Garden</figcaption>
 </figure>
 
 <div class="row">
@@ -88,14 +96,7 @@ categories: asia
     <figcaption class='img-caption'></figcaption>
 </figure>
 
-<div class="row">
-  <div class="column1">
-    <img class="fullscreen" src="https://i.imgur.com/Y5KotEM.jpg" style="width:100%" onClick="makeFullScreen(event)">
-  </div>
-  <div class="column2">
-    <img class="fullscreen" src="https://i.imgur.com/ejMVFES.jpg" style="width:100%" onClick="makeFullScreen(event)">
-  </div>
-</div>
+
 
 
 <div class="row">
@@ -111,8 +112,6 @@ categories: asia
     <img class="fullscreen" src="https://i.imgur.com/FDyNP0Y.jpg" onClick="makeFullScreen(event)"> 
     <figcaption class='img-caption'>Южная часть Макао</figcaption>
 </figure>
-
-
 
 <figure>
     <img class="fullscreen" src="https://i.imgur.com/2cfUsgT.jpg" onClick="makeFullScreen(event)"> 
