@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Северный Вьетнам"
+image: vn-cover.jpg
+date: 2023-02-22 15:00:00 +0700
+tags: [Asia]
+categories: asia
+---
+
+<style>
+  .img-caption {
+     text-align: center;
+     color: gray;
+  }
+  
+  .row {
+    display: flex;
+    padding-bottom: 1.6%;
+  }
+
+  .column1 {
+    flex: 50.0%;
+    padding-right: 0.8%;
+  }
+  
+  .column2 {
+    flex: 50.0%;
+    padding-left: 0.8%;
+  }
+  
+</style>
+
+# Вьетнам
+
+<figure>
+    <img class="fullscreen" src="" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<div class="row">
+  <div class="column1">
+    <img class="fullscreen" src="" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+  <div class="column2">
+    <img class="fullscreen" src="" style="width:100%" onClick="makeFullScreen(event)">
+  </div>
+</div>
+
+## Ханой
+
+
+## Нинь Бинь
+
+
+## Бухта Халонг
+
+
+
+## Сапа
+
+
+
+
+
+
+
+
+
+
+
+
+
