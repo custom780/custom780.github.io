@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Япония"
+image: cover_jp.jpg
+date: 2025-02-21 15:00:00 +0700
+tags: [Asia]
+categories: asia
+---
+
+<style>
+  .img-caption {
+     text-align: center;
+     color: gray;
+  }
+  
+  .row {
+    display: flex;
+    padding-bottom: 1.6%;
+  }
+
+  .column1 {
+    flex: 50.0%;
+    padding-right: 0.8%;
+  }
+  
+  .column2 {
+    flex: 50.0%;
+    padding-left: 0.8%;
+  }
+  
+</style>
+
+# Токио
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/wl0DJsp.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Перекресток Шибуя</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/HgOe5yq.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/bUCTOrG.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Фудзияма</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/qfL4mS5.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Квартал Кабуки-тё</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/4bhQkH0.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Аллея деревьев гинкго</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/KMq6bMa.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Парк Синдзюку-Гёэн</figcaption>
+</figure>
+
+# Киото
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/lSsV6uo.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Бамбуковый лес Арашияма</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/xDhbg6I.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Храм Киёмидзу-дэра</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/BZe4kgh.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'></figcaption>
+</figure>
+
+# Осака
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/J1UoPmz.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Замок Осаки</figcaption>
+</figure>
+
+<figure>
+    <img class="fullscreen" src="https://i.imgur.com/0VNdUXG.jpeg" onClick="makeFullScreen(event)"> 
+    <figcaption class='img-caption'>Улица Дотонбори</figcaption>
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
